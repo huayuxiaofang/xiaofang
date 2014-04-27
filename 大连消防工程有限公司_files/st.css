@@ -1,0 +1,39 @@
+BODY {
+	BACKGROUND-COLOR: #cccccc; MARGIN: 0px
+}
+BODY {
+	FONT-SIZE: 12px
+}
+TD {
+	FONT-SIZE: 12px
+}
+TH {
+	FONT-SIZE: 12px
+}
+A:link {
+	COLOR: #d2691e; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #d2691e; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #9acd32; TEXT-UNDERLINE-POSITION: below; TEXT-DECORATION: underline
+}
+A:active {
+	TEXT-DECORATION: none
+}
+.style1 {
+	FONT-SIZE: 20px
+}
+.style10 {
+	COLOR: #ff0000
+}
+.STYLE11 {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.STYLE12 {
+	COLOR: #ffffff
+}
+.STYLE13 {
+	COLOR: #636363
+}
